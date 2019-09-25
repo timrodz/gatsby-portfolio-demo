@@ -34,8 +34,8 @@
     "pretty-quick": "^1.11.1"
   },
   "husky": {
-	"hooks": {
-	  "pre-commit": "pretty-quick --staged"
-	}
+    "hooks": {
+      "pre-commit": "pretty-quick --staged"
+    }
   }
 }
