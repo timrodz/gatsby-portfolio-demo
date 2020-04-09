@@ -18,7 +18,7 @@
     "gatsby-source-filesystem": "^2.1.18",
     "gatsby-transformer-json": "^2.2.6",
     "gatsby-transformer-sharp": "^2.2.12",
-    "react": "^16.8.1",
+    "react": "^16.13.1",
     "react-dom": "^16.8.1",
     "sharp": "^0.23.0"
   },
